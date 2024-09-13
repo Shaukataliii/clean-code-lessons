@@ -6,3 +6,5 @@ It is easy to restructure and add new functionalities when the concerns of the s
 ### 2- Use DSL (domain specific language) where domain persons e.g. Develops, needs to interact with the system and USL (user specific language) where a user needs to interact with the system.
 
 ### 3- While designing systems, use the simplest way/technique possible.
+
+### 4- A testable design is a good design & a optimally testable design follows the Single Responsiblity Principle (SRP).
