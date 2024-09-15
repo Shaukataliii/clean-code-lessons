@@ -8,3 +8,6 @@ It is easy to restructure and add new functionalities when the concerns of the s
 ### 3- While designing systems, use the simplest way/technique possible.
 
 ### 4- A testable design is a good design & a optimally testable design follows the Single Responsiblity Principle (SRP).
+
+### 5- Reduce duplication. It makes the system more clean and managable.
+Duplication can be in term of methods, implementation and classes etc.
