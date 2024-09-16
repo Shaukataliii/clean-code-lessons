@@ -11,3 +11,5 @@ It is easy to restructure and add new functionalities when the concerns of the s
 
 ### 5- Reduce duplication. It makes the system more clean and managable.
 Duplication can be in term of methods, implementation and classes etc.
+
+### 6- The code should express the intent of its author.
