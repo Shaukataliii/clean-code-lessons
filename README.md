@@ -13,3 +13,5 @@ It is easy to restructure and add new functionalities when the concerns of the s
 Duplication can be in term of methods, implementation and classes etc.
 
 ### 6- The code should express the intent of its author.
+
+### 7- Most likely, the next person to read your code will be you. Take pride in refining and optimizing your code once it functions correctly.
