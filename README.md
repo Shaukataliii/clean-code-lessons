@@ -17,3 +17,5 @@ Duplication can be in term of methods, implementation and classes etc.
 ### 7- Most likely, the next person to read your code will be you. Take pride in refining and optimizing your code once it functions correctly.
 
 ### 8- Keep the code minimal while keeping it clean and organized.
+
+### 9- Objects are abstraction of processing, threads are abstractions of schedule.
