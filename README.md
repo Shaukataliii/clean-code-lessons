@@ -21,3 +21,8 @@ Duplication can be in term of methods, implementation and classes etc.
 ### 9. Objects are abstraction of processing, threads are abstractions of schedule.
 
 ### 10. Pay keen attention to concurrencies in the system, if present.
+
+### 11. Some myths about Concurrency:
+- Concurrency always improve performance.
+- The design of the underlying system doesn't change when writting concurrent programs.
+- Understanding concurrency issues is not important when working with a container such as a Web or EJB container
