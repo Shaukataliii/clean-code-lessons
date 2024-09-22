@@ -26,3 +26,8 @@ Duplication can be in term of methods, implementation and classes etc.
 - Concurrency always improve performance.
 - The design of the underlying system doesn't change when writting concurrent programs.
 - Understanding concurrency issues is not important when working with a container such as a Web or EJB container
+
+### 12. Realities about Concurrenty:
+- Concurrency incurs some overhead, both in performance as well as writing additional code.
+- Correct concurrency is complex, even for simple problems.
+- Concurrency often requires a fundamental change in design strategy.
