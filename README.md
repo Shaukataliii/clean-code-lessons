@@ -31,3 +31,5 @@ Duplication can be in term of methods, implementation and classes etc.
 - Concurrency incurs some overhead, both in performance as well as writing additional code.
 - Correct concurrency is complex, even for simple problems.
 - Concurrency often requires a fundamental change in design strategy.
+
+### 13. One way to decrease/overcome the difficulties of concurrenty is to apply the SRP (single responsibility principle) to it. Separate the concurrency code from the rest of the code.
