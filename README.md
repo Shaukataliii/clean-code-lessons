@@ -33,3 +33,7 @@ Duplication can be in term of methods, implementation and classes etc.
 - Concurrency often requires a fundamental change in design strategy.
 
 ### 13. One way to decrease/overcome the difficulties of concurrenty is to apply the SRP (single responsibility principle) to it. Separate the concurrency code from the rest of the code.
+
+### 14. Name functions as Verbs and classes as Nouns.
+
+### 15. The name of a function or variable should reflect its purpose and how it completes that.
