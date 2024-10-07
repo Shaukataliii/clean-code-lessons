@@ -39,3 +39,5 @@ Duplication can be in term of methods, implementation and classes etc.
 ### 15. The name of a function or variable should reflect its purpose and how it completes that.
 
 ### 16. Don't use multiple words for same task. For Example, use both get, retrieve etc. Instead use only one and stay consistent with it.
+
+### 17. Good code sounds like a story.
