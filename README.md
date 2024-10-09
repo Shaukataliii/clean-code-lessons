@@ -41,3 +41,5 @@ Duplication can be in term of methods, implementation and classes etc.
 ### 16. Don't use multiple words for same task. For Example, use both get, retrieve etc. Instead use only one and stay consistent with it.
 
 ### 17. Good code sounds like a story.
+
+### 18. To write clean code, you must first write dirty code and then clean it.
