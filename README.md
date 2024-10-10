@@ -43,3 +43,5 @@ Duplication can be in term of methods, implementation and classes etc.
 ### 17. Good code sounds like a story.
 
 ### 18. To write clean code, you must first write dirty code and then clean it.
+
+### 19. Writing clean programs is a matter of successive refinement.
